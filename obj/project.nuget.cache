@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qltxm6fwo/yTW983+N+SOAEhUIWa5OID+nui3rBj2vu3a7FWWfI6EPvtm/3VmzQdrDjo5ShMY4XJ0kwDcKsmdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Novo\\OneDrive\\Documentos\\dotnet\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Novo\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Novo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Novo\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
