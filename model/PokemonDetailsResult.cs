@@ -1,6 +1,6 @@
 namespace Tamagotchi;
 
-class PokemonDetailsResult
+public class PokemonDetailsResult
 {
     public required List<AbilityDetail> Abilities { get; set; }
     public required string Name { get; set; }
